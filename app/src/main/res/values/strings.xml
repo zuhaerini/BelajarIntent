@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Belajar Intent</string>
+    <string name="move_act">Pindah Activity</string>
+    <string name="move_with_data">Pindah Activity Dengan Data</string>
+    <string name="move_with_object">Pindah Activity Dengan Objek</string>
+    <string name="dial_number">Menggunakan Nomor Telepon</string>
+    <string name="move_for_result">Pindah Activity Untuk Result</string>
+</resources>
